@@ -1,0 +1,8 @@
+.counter .btn {
+	background: #fbfbfb;
+	border: 1px solid #D4D4D4;
+}
+
+.counter .btn:hover {
+	background: #ccc;
+}

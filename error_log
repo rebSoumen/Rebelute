@@ -1,0 +1,2 @@
+[17-Mar-2017 17:05:11 UTC] PHP Fatal error:  Call to a member function get3RecentblogsModel() on null in /home/pari2121/public_html/application/controllers/Blog.php on line 42
+[17-Mar-2017 17:06:31 UTC] PHP Fatal error:  Call to a member function fetch_blogsByCategory() on null in /home/pari2121/public_html/application/controllers/Blog.php on line 111
